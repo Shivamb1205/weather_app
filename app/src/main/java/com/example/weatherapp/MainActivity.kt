@@ -14,7 +14,6 @@ import java.util.Date
 import java.util.Locale
 
 
-//155824ce21d24c137885b1ae25e1b52a
 class MainActivity : AppCompatActivity() {
     private val binding: ActivityMainBinding by lazy {
         ActivityMainBinding.inflate(layoutInflater)
